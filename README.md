@@ -1,6 +1,6 @@
 # Hi, I'm Abhayadev RVM! 👋
 
-I am a Btech student at VIT Vellore. I am passionate about Artificial Intelligence and Machine Learning.
+Pursuing BTech in Computer Science and Engineering at VIT Vellore
 
 ---
 
@@ -17,7 +17,7 @@ Passionate about logic, precision, and problem solving. I am a detail oriented g
 ## 💼 Experience
 
 ### AI Engineer | NeuMe Neurotech
-*Participated in the Smart India Hackathon 2025, building an interface which can predict the probabilty of getting an internship based on skills and company requirements.*
+**Participated in the Smart India Hackathon 2025, building an interface which can predict the probabilty of getting an internship based on skills and company requirements.**
 
 ## 📚 Education
 **BTech in Computer Science and Engineering**
