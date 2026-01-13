@@ -1,4 +1,4 @@
-![My Profile Photo](profile.jpg)
+![My Profile Photo](profile.jpeg)
 
 # Hi, I'm Abhayadev RVM! 👋
 
