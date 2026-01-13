@@ -1,4 +1,4 @@
-![My Profile Photo](profile.jpeg)
+
 <img src="profile.jpeg" width="150">
 
 # Hi, I'm Abhayadev RVM! 👋
