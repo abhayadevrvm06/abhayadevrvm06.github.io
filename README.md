@@ -1,3 +1,5 @@
+![My Profile Photo](profile.jpg)
+
 # Hi, I'm Abhayadev RVM! 👋
 
 Pursuing BTech in Computer Science and Engineering at VIT Vellore
