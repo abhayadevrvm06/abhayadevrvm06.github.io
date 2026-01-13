@@ -1,1 +1,27 @@
-# abhayadevrvm06.github.io
+# Hi, I'm Abhayadev RVM! 👋
+
+I am a Btech student at VIT Vellore. I am passionate about Artificial Intelligence and Machine Learning.
+
+---
+
+## 🚀 About Me
+
+Passionate about logic, precision, and problem solving. I am a detail oriented generalist who utilizes AI to build efficient, high-quality solutions. I believe that if a job is worth doing, it is worth doing to perfection.
+
+## 🛠 Skills
+* **Core:** AI Generalist, Prompt Engineering, Workflow Optimization
+* **Quality Assurance:** Editing, verifying and refining AI generated content for accuracy and tone.
+* **Tools:** Generative AI, Github/Version Control
+* **Languages:** Malayalam (Native), English, Hindi
+
+## 💼 Experience
+
+### AI Engineer | NeuMe Neurotech
+
+## 📚 Education
+**BTech in Computer Science and Engineering**
+*VIT Vellore, 2029*
+
+## 📫 Contact Me
+* **Email:** [abhayadevrvm@gmail.com]
+* **LinkedIn:** [www.linkedin.com/in/abhayadev-rvm-799221282]
