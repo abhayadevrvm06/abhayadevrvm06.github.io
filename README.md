@@ -17,10 +17,11 @@ Passionate about logic, precision, and problem solving. I am a detail oriented g
 ## 💼 Experience
 
 ### AI Engineer | NeuMe Neurotech
+*Participated in the Smart India Hackathon 2025, building an interface which can predict the probabilty of getting an internship based on skills and company requirements.*
 
 ## 📚 Education
 **BTech in Computer Science and Engineering**
-*\nVIT Vellore, 2029*
+* VIT Vellore, 2029*
 
 ## 📫 Contact Me
 * **Email:** [abhayadevrvm@gmail.com]
