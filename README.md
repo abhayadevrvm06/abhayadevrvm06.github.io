@@ -1,5 +1,4 @@
-<img src="profile.jpeg" width="150">
-
+<img src="profile.jpeg" align="right" width="200" style="margin-left: 20px;">
 # Hi, I'm Abhayadev RVM! 👋
 
 Pursuing BTech in Computer Science and Engineering at VIT Vellore
