@@ -26,7 +26,7 @@ Passionate about logic, precision, and problem solving. I am a detail oriented g
 
 ## 📚 Education
 **BTech in Computer Science and Engineering**
-* VIT Vellore, 2029*
+* VIT Vellore*
 
 ## 📫 Contact Me
 * **Email:** abhayadevrvm@gmail.com
