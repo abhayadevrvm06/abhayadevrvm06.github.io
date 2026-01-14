@@ -25,8 +25,9 @@ Passionate about logic, precision, and problem solving. I am a detail oriented g
 * VIT Vellore, 2029*
 
 ## ⚡ Interests
-* **Chess![Chess](https://img.shields.io/badge/Chess.com-Strategy-659335?style=for-the-badge&logo=chess.com&logoColor=white):** Strategic thinker. (Rated 2000 on Chess.com)
-* **Violin![Violin](https://img.shields.io/badge/Violin-%F0%9F%8E%BB-8B4513?style=for-the-badge):** Trained in western music; State Level A Grade in Kerala School Kalolsavam 2024 ; passionate about the intersection of art and logic.
+* **Chess♟️:** Strategic thinker. (Rated 2000 on Chess.com)
+* **Violin🎻:** Trained in western music; State Level A Grade in Kerala School Kalolsavam 2024 ; passionate about the intersection of art and logic.
+
 
 ## 📫 Contact Me
 * **Email:** abhayadevrvm@gmail.com
