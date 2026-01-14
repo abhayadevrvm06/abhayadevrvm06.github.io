@@ -1,4 +1,4 @@
-<img src="profile.jpeg" align="right" width="150" alt="Profile Photo" style="border-radius: 50%;">
+<img src="profile.jpeg" align="right" width="200" alt="Profile Photo" style="border-radius: 20%;">
 
 # Hi, I'm Abhayadev RVM! 👋
 
@@ -21,7 +21,7 @@ Passionate about logic, precision, and problem solving. I am a detail oriented g
 
 ## 💼 Experience
 
-### AI Engineer | NeuMe Neurotech
+### AI Engineer | NeuMe
 **Participated in the Smart India Hackathon 2025, building an interface which can predict the probability of getting an internship based on skills and company requirements.**
 
 ## 📚 Education
