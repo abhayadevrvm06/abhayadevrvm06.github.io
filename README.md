@@ -1,9 +1,13 @@
-<img src="profile.jpeg" align="right" width="200" style="margin-left: 50px;">
+<img src="profile.jpeg" align="right" width="150" alt="Profile Photo" style="border-radius: 50%;">
+
 # Hi, I'm Abhayadev RVM! 👋
 
 Pursuing BTech in Computer Science and Engineering at VIT Vellore
 
+<br clear="all" />
+
 ---
+
 
 ## 🚀 About Me
 
