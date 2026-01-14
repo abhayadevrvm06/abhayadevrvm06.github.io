@@ -24,11 +24,6 @@ Passionate about logic, precision, and problem solving. I am a detail oriented g
 **BTech in Computer Science and Engineering**
 * VIT Vellore, 2029*
 
-## ⚡ Interests
-* **Chess♟️:** Strategic thinker. (Rated 2000 on Chess.com)
-* **Violin🎻:** Trained in western music; State Level A Grade in Kerala School Kalolsavam 2024 ; passionate about the intersection of art and logic.
-
-
 ## 📫 Contact Me
 * **Email:** abhayadevrvm@gmail.com
 * **LinkedIn:** www.linkedin.com/in/abhayadev-rvm-799221282
